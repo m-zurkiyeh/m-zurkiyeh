@@ -1,4 +1,8 @@
-### Hi there 👋
+  ### 👋 ٱلسَّلَامُ عَلَيْكُم Hello and 
+🇵🇸
+
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py)
+
 
 <!--
 **m-zurkiyeh/m-zurkiyeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
