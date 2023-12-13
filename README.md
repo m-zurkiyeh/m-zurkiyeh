@@ -1,7 +1,12 @@
   ### 👋 ٱلسَّلَامُ عَلَيْكُم Hello and 
-🇵🇸
+🇵🇸 🇯🇴 🇨🇦
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py)
+## My Skills
+![Static Badge](https://img.shields.io/badge/python-3.11-blue?logo=python&label=python) ![Static Badge](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode) ![Static Badge](https://img.shields.io/badge/VMware-blue?logo=vmware)
+
+
+## My Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-zurkiyeh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
