@@ -3,7 +3,7 @@
 <h1><b>👋 Hello and ٱلسَّلَامُ عَلَيْكُمْ 👋</b></h1>
 </div>
 
-My name is Malik Zurkiyeh. I am a Palestinian/Jordanian Arab born in the city of Amman, Jordan and I am currently residing in Canada. I am a new college graduate that has completed a Computer Engineering Technology program at Algonquin College. <br>
+My name is Malik Zurkiyeh. I am a new college graduate that has completed a Computer Engineering Technology program at Algonquin College. <br>
 ![Palestine](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ps.png) 🇵🇸  ![Jordan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/jo.png) 🇯🇴  ![Canada](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png) 🇨🇦
 
 
