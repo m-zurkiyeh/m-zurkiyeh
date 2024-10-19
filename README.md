@@ -4,7 +4,7 @@
 </div>
 
 My name is Malik Zurkiyeh. I am a new college graduate that has completed a Computer Engineering Technology program at Algonquin College. <br>
-![Palestine](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ps.png) 🇵🇸  ![Jordan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/jo.png) 🇯🇴  ![Canada](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png) 🇨🇦
+![Jordan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/jo.png) 🇯🇴  ![Canada](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png) 🇨🇦
 
 
 
