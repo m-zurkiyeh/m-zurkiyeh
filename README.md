@@ -37,6 +37,7 @@ My name is Malik Zurkiyeh. I am a new college graduate that has completed a Comp
 
 ## My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-zurkiyeh&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-zurkiyeh&layout=compact&hide=cmake&langs_count=8&theme=solarized-dark)
 
 
