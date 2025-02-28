@@ -28,17 +28,15 @@ My name is Malik Zurkiyeh. I am a new college graduate that has completed a Comp
 ## My Projects
 [![Readme Card](https://github-readme-stats-m-zurkiyehs-projects.vercel.app/api/pin/?username=m-zurkiyeh&repo=PyDuinoPong&show_owner=true&theme=dark)](https://github.com/m-zurkiyeh/PyDuinoPong)
 [![Readme Card](https://github-readme-stats-m-zurkiyehs-projects.vercel.app/api/pin/?username=m-zurkiyeh&repo=JavaPaint&show_owner=true&theme=dark)](https://github.com/m-zurkiyeh/JavaPaint)
-[![Readme Card](https://github-readme-stats-m-zurkiyehs-projects.vercel.app/pin/?username=m-zurkiyeh&repo=Login&show_owner=true&theme=dark)](https://github.com/m-zurkiyeh/Login)
+[![Readme Card](https://github-readme-stats-m-zurkiyehs-projects.vercel.app/api/pin/?username=m-zurkiyeh&repo=Login&show_owner=true&theme=dark)](https://github.com/m-zurkiyeh/Login)
 
 
 
 
-
-https://github-readme-stats-m-zurkiyehs-projects.vercel.app/
 ## My Stats
-[![Anurag's GitHub stats](https://github-readme-stats-m-zurkiyehs-projects.vercel.app/api?username=m-zurkiyeh&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-m-zurkiyehs-projects.vercel.app/api?username=m-zurkiyeh&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![Top Langs](https://github-readme-stats-m-zurkiyehs-projects.vercel.app/top-langs/?username=m-zurkiyeh&layout=compact&hide=cmake&langs_count=8&theme=solarized-dark)
+![Top Langs](https://github-readme-stats-m-zurkiyehs-projects.vercel.app/api/top-langs/?username=m-zurkiyeh&layout=compact&hide=cmake&langs_count=8&theme=solarized-dark)
 
 
 
