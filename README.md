@@ -31,7 +31,7 @@ My name is Malik Zurkiyeh. I am a new college graduate that has completed a Comp
 </a>
 
 <a href="https://github.com/m-zurkiyeh/Login">
-  <img align="center" src="https://github-readme-stats-m-zurkiyehs-projects.vercel.app/api/pin/?username=m-zurkiyeh&repo=Login&show_owner=true&theme=dark">
+  <img align="center" src="https://github-readme-stats-qae1-4j1goys4d-m-zurkiyehs-projects.vercel.app/api/pin/?username=m-zurkiyeh&repo=Login&show_owner=true&theme=dark">
 </a>
 
 <a href="https://github.com/m-zurkiyeh/JavaPaint">
