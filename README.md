@@ -12,42 +12,30 @@ My name is Malik Zurkiyeh. I am a new college graduate that has completed a Comp
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+https://github-readme-stats-m-zurkiyehs-projects.vercel.app/
+## My Stats
+[![Malik's GitHub stats](https://github-readme-stats-xi-ebon-57.vercel.app/api?username=m-zurkiyeh&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My Projects
 <a href="https://github.com/m-zurkiyeh/PyDuinoPong">
-  <img align="center" src="https://github-readme-stats-m-zurkiyehs-projects.vercel.app/api/pin/?username=m-zurkiyeh&repo=PyDuinoPong&show_owner=true&theme=dark">
+  <img align="center" src="https://github-readme-stats-xi-ebon-57.vercel.app/api/pin/?username=m-zurkiyeh&repo=PyDuinoPong&show_owner=true&theme=dark">
 </a>
 
 <a href="https://github.com/m-zurkiyeh/Login">
-  <img align="center" src="https://github-readme-stats-m-zurkiyehs-projects.vercel.app/api/pin/?username=m-zurkiyeh&repo=Login&show_owner=true&theme=dark">
+  <img align="center" src="https://github-readme-stats-xi-ebon-57.vercel.app/api/pin/?username=m-zurkiyeh&repo=Login&show_owner=true&theme=dark">
 </a>
 
 <a href="https://github.com/m-zurkiyeh/JavaPaint">
-  <img align="center" src="https://github-readme-stats-m-zurkiyehs-projects.vercel.app/api/pin/?username=m-zurkiyeh&repo=JavaPaint&show_owner=true&theme=dark">
+  <img align="center" src="https://github-readme-stats-xi-ebon-57.vercel.app/api/pin/?username=m-zurkiyeh&repo=JavaPaint&show_owner=true&theme=dark">
 </a>
   
-
-## My Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-m-zurkiyehs-projects.vercel.app/api?username=m-zurkiyeh&show_icons=true&theme=transparent&rank_icon=github">
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-m-zurkiyehs-projects.vercel.app/api/top-langs/?username=m-zurkiyeh&layout=compact&hide=cmake&langs_count=8&theme=transparent">
-</a>
-
-
 
 
